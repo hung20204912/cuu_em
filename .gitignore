@@ -1,0 +1,11 @@
+source-code-dataset/blob-source-code
+source-code-dataset/dataclass-source-code
+source-code-dataset/featureenvy-source-code
+source-code-dataset/longmethod-source-code
+
+embedding-dataset/
+
+DeepSmells/results
+DeepSmells/tracking
+
+*.pyc
